@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\find_basis_fcns_and_grad.cpp(12): warning C4101: 'N': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\find_basis_fcns_and_grad.cpp(12): warning C4101: 'j': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\find_basis_fcns_and_grad.cpp(12): warning C4101: 'i': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\find_basis_fcns_and_grad.cpp(72): warning C4101: 'N': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\find_basis_fcns_and_grad.cpp(72): warning C4101: 'j': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\find_basis_fcns_and_grad.cpp(72): warning C4101: 'i': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\basic_matrix_operation.cpp(5): warning C4101: 'i': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\pre_calculation.cpp(67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\pre_calculation.cpp(173): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\pre_calculation.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\pre_calculation.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\time_iteration.cpp(285): warning C4101: 'k': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\time_iteration.cpp(369): warning C4101: 'k': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\time_iteration.cpp(369): warning C4101: 'j': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\time_iteration.cpp(411): warning C4101: 'j': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\time_iteration.cpp(475): warning C4101: 'j': unreferenced local variable
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\main.cpp(44): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\runda\desktop\20190404_task_2_ver2_rk4_dynamic_cfl\main.cpp(45): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  proj.vcxproj -> C:\Users\runda\Desktop\20190404_task_2_ver2_RK4_dynamic_CFL\Debug\proj.exe
+  proj.vcxproj -> C:\Users\runda\Desktop\20190404_task_2_ver2_RK4_dynamic_CFL\Debug\proj.pdb (Full PDB)
